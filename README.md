@@ -14,5 +14,5 @@ next thing I intend to work on:
 
 last thing I got fully done:
 ```
-> cleaned up game.py
+> inventory stack mechanics
 ```
